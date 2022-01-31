@@ -1,1 +1,1 @@
-# database-testing
+Monorepo for testing out/notes on different technologies.
